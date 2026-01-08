@@ -1,0 +1,5 @@
+{
+  "name": "ProPayStub Generator",
+  "description": "Professional paystub generator with real-time preview, multi-period calculation, and PDF export mimicking corporate standards.",
+  "requestFramePermissions": []
+}
